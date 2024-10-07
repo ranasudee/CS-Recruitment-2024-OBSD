@@ -1,30 +1,19 @@
-# CS-Recruitment-2024-OBSD
+# [Knights of Cydonia](https://www.youtube.com/watch?v=G_sBOsh-vyI)
 
-If you're done with the form, now it's time for the real challenge to prove your worth to the DIANA Computer Science Department Committee. 
+![](./assets/labyrinth.png)
 
-In this repo you will find several challenges, each one on a separate branch.
-Challenges' levels of difficulty and topics vary, you should pick those you feel more confident with.
-**Make sure to submit AT LEAST one challenge**, but feel free to try as many as you like.
+Little is known about the mysterious Mars' labyrinths, enormous structures carved into the surface of the red planet, extending for thousands of kilometers and drawing almost lugubrious patterns on the surface of the planet. Scientists attribute the origin of these labyrinths to the prolonged action of the elements which, over millions of years, have carved these structures into the Martian soil. 
 
-In the README.md of each challenge you will find:
-- A textual description giving context on the challenge.
-- Instructions on what you should do to solve it
-- The expected output(s)
-- The challenge's maximum score, depending on its difficulty level
+But in 2056 a set of robotic probes sent by DIANA for private exploration purposes (they were searching for available free parking spots on Mars given the unbearable situation in Turin) discovered an intricate network of tunnels underneath the surface in the Cydonia region, right close to the infamous formation known as the "Face on Mars". The rovers were able to send back radar data of the tunnels before they were lost for unknown reasons (probably just a software defect, plenty of those), but the team was able to recover the data and they couldn't believe what they found: the network of tunnels seems to be of artificial origin! Not only that, but it looks as if it contains a secret encoded message. 
 
-List of challenges: 
-- `Knights Of Cydonia ........... 400pt`
-- `Another Bug Bites The Dust ... 300pt`
-- `SOS .......................... 300pt` 
+If confirmed, this would be an unprecedented discovery. The team is now asking for your help to decode the message. Can you help them decipher the message before those boring JPL guys get their hands on it?
 
-GENERAL INSTRUCTIONS:
-- clone the repo ``git clone git@github.com:team-diana/CS-Recruitment-2024-OBSD.git``
-- checkout to the branch of the challenge you want ``git checkout <BRANCH_NAME>``
-- from that, create your own PRIVATE repo.
-- Submit your code and expected outputs to your repo.
-- When you're done, give read permissions to DIANA's github account (https://github.com/TeamDiana).
-- On 23:59 of the 18th of October we will download all the submitted files.
+## Instructions
+``labyrinth.txt`` contains all the information you need to solve this challenge. 
 
-If you need help or assistance you can write to computer.science@teamdiana.it. We will try not to give any hint on the challenges but we're easily bribable.
+## Expected deliverables
+- One .txt file containing the message
+- The code you used to get the result
 
-As always, have fun!
+## Challenge's Score
+Total Score: 400
