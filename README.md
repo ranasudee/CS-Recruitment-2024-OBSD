@@ -13,9 +13,9 @@ In the README.md of each challenge you will find:
 - The challenge's maximum score, depending on its difficulty level
 
 List of challenges: 
-- `AncientMessage ... 400pt`
-- `Bugfixing ........ 300pt`
-- `SOS .............. 300pt` 
+- `Knights Of Cydonia ........... 400pt`
+- `Another Bug Bites The Dust ... 300pt`
+- `SOS .......................... 300pt` 
 
 GENERAL INSTRUCTIONS:
 - clone the repo ``git clone git@github.com:team-diana/CS-Recruitment-2024-OBSD.git``
