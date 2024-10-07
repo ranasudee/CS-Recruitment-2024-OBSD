@@ -1,30 +1,23 @@
-# CS-Recruitment-2024-OBSD
+# [SOS](https://www.youtube.com/watch?v=cvChjHcABPA)
 
-If you're done with the form, now it's time for the real challenge to prove your worth to the DIANA Computer Science Department Committee. 
+Michele wants to hide a virus in Alberto's computer but gives him the opportunity to disable it with a password hidden in a program.
+However, this program does not work well because Tavoletta distracted Michele while he was writing it, so, there are some errors.
 
-In this repo you will find several challenges, each one on a separate branch.
-Challenges' levels of difficulty and topics vary, you should pick those you feel more confident with.
-**Make sure to submit AT LEAST one challenge**, but feel free to try as many as you like.
+Can you tell Alberto what is the password he needs to save his computer?
 
-In the README.md of each challenge you will find:
-- A textual description giving context on the challenge.
-- Instructions on what you should do to solve it
-- The expected output(s)
-- The challenge's maximum score, depending on its difficulty level
+DISCLAIMER: References to people and objects are purely coincidental ;).
 
-List of challenges: 
-- `Knights Of Cydonia ........... 400pt`
-- `Another Bug Bites The Dust ... 300pt`
-- `SOS .......................... 300pt` 
+WARNING: You have to upload the fixed code you used to obtain the solution, not just the solution, of this challenge!!
 
-GENERAL INSTRUCTIONS:
-- clone the repo ``git clone git@github.com:team-diana/CS-Recruitment-2024-OBSD.git``
-- checkout to the branch of the challenge you want ``git checkout <BRANCH_NAME>``
-- from that, create your own PRIVATE repo.
-- Submit your code and expected outputs to your repo.
-- When you're done, give read permissions to DIANA's github account (https://github.com/TeamDiana).
-- On 23:59 of the 18th of October we will download all the submitted files.
+## Instructions
+Fix the errors to find the password hidden in the code!
 
-If you need help or assistance you can write to computer.science@teamdiana.it. We will try not to give any hint on the challenges but we're easily bribable.
+## Expected deliverables
+Provide the fixed version of:
+- all the files in cmake_stuff folder
+- CMakeList
+- Makefile
+- sos.cpp
 
-As always, have fun!
+### Challenge's score
+Total Score: 300
