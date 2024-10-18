@@ -1,0 +1,6 @@
+1) Line 47: The mountPayload function does not assign the mounted payload to the rover.
+2) Line 20: In the unmount method, you incorrectly set mounted to true.
+3) Line 79: The return statement in collectRock is incorrect and does not properly create a Rock object.
+4) Line 87: The constructor for the Rock struct does not initialize member variables.
+5) Line 126: The use method should return void instead of int, and it should take a reference to Rover.
+6) Line 144: You declare SoilSampler *sampler; but never instantiate it. 
